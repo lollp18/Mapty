@@ -1,0 +1,10 @@
+{
+  "default": "index.html",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "scripts": {
+    "mapty": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
